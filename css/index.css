@@ -1,0 +1,90 @@
+#jazz {
+	width :320px;
+	height:70px;
+}
+
+h1{
+	display:inline;
+}	
+
+#left{
+	width:50%;
+	float:left;
+}
+
+#right{
+	width:50%;
+	float:right;
+}
+
+nav{
+	width:15%;
+	float:right;
+	padding:10px;
+	color:#5d001e;
+	font-size:20px;
+	font-weight:bold;
+	
+}
+
+#l,header {
+	width: 80%;
+	float:left;
+	background-color:#e3e2df;
+	padding:10px;
+	
+}
+
+h3{
+	color : #000C7B;
+	font-size:20px;
+	display:inline;
+}
+
+h4{
+	color : #808080;
+	font-size:25px;
+	display:inline;
+}
+
+body {
+	background-color: #EB5E00;
+}
+
+#vikram,#rocketry{
+	float:left;
+	padding-right : 40px;
+	padding-bottom:40px;
+}
+
+#ul1{
+	margin-bottom:20px;
+	list-style-image:url("../img/movielist1.jpg");
+}
+
+#ul2{
+	margin-bottom:20px;
+	list-style-image:url("../img/movielist2.jpg");
+}
+
+a{
+	font-family: 'Comic Sans MS',serif;
+	font-size:20px;
+	padding:5px;
+}
+
+a:link{
+	color:red;
+}
+
+a:visited{
+	color:#9a1750;
+}
+
+a:hover{
+	color:#5d001e;
+}
+
+nav.a:link{
+	
+}

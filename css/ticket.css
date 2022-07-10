@@ -1,0 +1,14 @@
+#jazz {
+	width :170px;
+	height:40px;
+	display:block;
+}
+
+body{
+	border:5px;
+	border-style:inset;
+	border-color:#FF017C;
+	padding: 25px;
+	text-align:justify;
+	background-color:#e3e2df;
+}

@@ -1,0 +1,112 @@
+.seats {
+	height :40px;
+	width:30px;
+	padding:0px;
+	margin:0px;
+	outline:0px;
+	}
+	
+#stw{
+	height:50px;
+	width:500px;
+}
+
+#a4,#b4,#c4,#d4,#e4,#f4,#g4,#h4,#i4,#j4,#a11,#b11,#c11,#d11,#e11,#f11,#g11,#h11,#i11,#j11{
+	margin-right: 20px;
+}
+
+#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9,#b10,#b11,#b12,#b13,#b14,#b15,#f1,#f2,#f3,#f4,#f5,#f6,#f7,#f8,#f9,#f10,#f11,#f12,#f13,#f14,#f15{
+	margin-bottom:20px;
+}
+
+#book {
+	height : 30px;
+	width:100px;
+}
+
+#seat_ar{
+	background-color:#FFB3CD;
+	display:block;
+	text-align:center;
+	padding-left:50px;
+	padding-right:50px;
+	border-left:solid #e3e2d7 130px;
+	border-right:solid #e3e2d7 130px;
+}
+
+body{
+	background-color:#ee4c7c;
+}
+	
+nav{
+	width:20%;
+	float:right;
+	padding:10px;
+}
+
+#left {
+	width: 75%;
+	float:left;
+	background-color:#e3e2d7;
+	padding:10px;
+}
+
+label {
+	padding-left : 50px;
+	padding-right:10px;
+}
+
+textarea {
+	text-align:center;
+	vertical-align : top;
+	resize:none;
+	height : 20px;
+	width : 260px;
+	padding : 5px;
+	font-family:lucida-calligraphy;
+	font-size:15px;
+}
+
+.h1{
+	font-size:30px;
+	font-family: "Brush Script MT",sans-serif;
+}
+
+ul{
+	margin-bottom:50px;
+	list-style-image:url("../img/movielist2.jpg");
+}
+
+
+a{
+	font-family: 'Comic Sans MS',serif;
+	font-size:20px;
+	padding:5px;
+}
+
+a:link{
+	color:#e3e2df;
+}
+
+a:visited{
+	color:#9a1750;
+}
+
+a:hover{
+	color:#5d001e;
+}
+
+button{
+	background-color:#5d001e;
+	color:#e3e2df;
+	border-radius:20px;
+	height:60px;
+	width:200px;
+	font-size:25px;
+	display:inline-block;
+}
+
+#rocketry{
+	width : 182px;
+	height:277px;
+}
